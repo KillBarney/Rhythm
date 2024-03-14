@@ -19,3 +19,6 @@ Window 10 Pro
 https://namu.wiki/w/Friday%20Night%20Funkin'
 https://namu.wiki/w/%EB%8D%B8%ED%83%80%EB%A3%AC
 https://namu.wiki/w/%EA%B1%B0%EB%84%88(%EB%8D%98%EC%A0%84%20%EC%95%A4%20%ED%8C%8C%EC%9D%B4%ED%84%B0)/%EB%82%A8%EC%9E%90
+
+# 플레이 영상
+https://www.youtube.com/watch?v=p84WRWVK8W8
